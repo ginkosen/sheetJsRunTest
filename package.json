@@ -1,0 +1,24 @@
+{
+  "name": "sheetjsruntest",
+  "version": "1.0.0",
+  "description": "sheetJsRunTest",
+  "browserslist": [
+    "> 10%",
+    "last 20 versions",
+    "not ie <= 8"
+  ],
+  "dependencies": {
+    "@sheet/core": "^1.20201112.1",
+    "xlsx": "^0.16.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginkosen/sheetJsRunTest.git"
+  },
+  "author": "ginko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginkosen/sheetJsRunTest/issues"
+  },
+  "homepage": "https://github.com/ginkosen/sheetJsRunTest#readme"
+}
