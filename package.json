@@ -9,7 +9,8 @@
   ],
   "dependencies": {
     "@sheet/core": "^1.20201112.1",
-    "xlsx": "^0.16.9"
+    "@sheet/image": "^1.20211011.1",
+    "xlsx": "^0.17.3"
   },
   "repository": {
     "type": "git",
